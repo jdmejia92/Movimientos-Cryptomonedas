@@ -1,0 +1,22 @@
+:root {
+    --primary-color: #20b2aa
+}
+
+body > header {
+    background-color: var(--primary-color);
+    height: 20vh;
+    padding-top: 1.5rem;
+}
+
+body > footer {
+    background-color: var(--primary-color);
+    position: absolute;
+    bottom: 1px;
+    height: 20vh;
+    padding-top: 2.75rem;
+    padding-bottom: 2.75rem;
+}
+
+.principal {
+    height: 40vh;
+}
