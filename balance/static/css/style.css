@@ -1,11 +1,16 @@
 :root {
-    --primary-color: #20b2aa
+    --primary-color: #20b2aa;
+    --white: #ffffff;
 }
 
 body > header {
     background-color: var(--primary-color);
     height: 20vh;
     padding-top: 1.5rem;
+}
+
+body > header > div > h1 {
+    color: var(--white);
 }
 
 body > footer {
