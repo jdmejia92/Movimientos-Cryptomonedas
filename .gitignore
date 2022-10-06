@@ -1,4 +1,5 @@
-create_table.py
+data/create_table.sql
 **__pycache__/
 venv/
 .vscode/
+config.py
