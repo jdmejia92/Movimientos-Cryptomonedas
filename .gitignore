@@ -3,3 +3,4 @@ data/create_table.sql
 venv/
 .vscode/
 config.py
+.env
